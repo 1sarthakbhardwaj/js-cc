@@ -6,8 +6,13 @@
 // {
 //     var //for global variable
 //     let city = 'wdc'; //for local variable
-//     const city = 'wdc'; // for constant value -> no redeclation 
+//     const city = 'wdc'; // for constant value -> no redeclation ;
+
+
 // }
+
+
  
 let date = new Date();
+let time = date.getHours();
 console.log(date);
